@@ -1,7 +1,8 @@
 # Hi there, I'm Muhamad Ridwan Rivaldi- aka rdwnrvldi 👋
 
 ## About me:
-- 🌱 I’m currently learning Flutter
+
+- 🌱 I am currently focused on becoming a graphic designer
 - 🤔 I’m looking for suggest for Rust Project Ideas
 - 💬 Ask me about anything
 - 📫 How to reach me: ridwanrivaldi17@gmail.com
@@ -19,15 +20,16 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="CorelDraw" width="150px" src="https://kursusonline.co.id/wp-content/uploads/2021/08/kursus-corel-draw.jpg" style="padding-right:10px;" />
+<img align="left" alt="CorelDraw" width="180px" src="https://kursusonline.co.id/wp-content/uploads/2021/08/kursus-corel-draw.jpg" style="padding-right:10px;" />
 <img align="left" alt="Adobe Lightroom" width="100px" src="https://dl.memuplay.com/new_market/img/com.adobe.lrmobile.icon.2021-04-28-13-11-40.png" style="padding-right:10px;" />
 <img align="left" alt="Adobe Illustrator" width="100px" src="https://www.nesabamedia.com/wp-content/uploads/2020/08/Adobe-Illustrator-Logo-1-1.png" style="padding-right:10px;" />
 
 
 <br />
 <br />
-
+<br />
 ---
+
 ### Connect with me:
 
 [![website](./img/instagram-light.svg)](https://instagram.com/rdwnwrvldi#gh-light-mode-only)
