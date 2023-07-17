@@ -9,7 +9,7 @@
 
 #### 1. [BinaInsani](https://binainsani.ac.id/) | Bekasi `2021-2024`
    
-#### 2. [SMK KARYA BAHANA MANDIRI]|TKJ | Bekasi `2018-2021`
+#### 2. [SMK KARYA BAHANA MANDIRI] (https://smk.kbm1.sch.id/)|TKJ | Bekasi `2018-2021`
 
 ## Work Experience:
 #### 1. [PT. Suzuki Indomobil motor](https://www.suzuki.co.id/) | Staff Maintenance Warehous | Bekasi `Sept'2019 - ``Des'2019 
