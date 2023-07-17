@@ -20,7 +20,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="CorelDraw" width="30px" src="https://kursusonline.co.id/wp-content/uploads/2021/08/kursus-corel-draw.jpg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Adobe Lightroom" width="30px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552](https://dl.memuplay.com/new_market/img/com.adobe.lrmobile.icon.2021-04-28-13-11-40.png)" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Adobe Lightroom" width="30px" src="https://dl.memuplay.com/new_market/img/com.adobe.lrmobile.icon.2021-04-28-13-11-40.png" style="padding-right:10px;" />][webdev]
 
 <br />
 <br />
@@ -28,8 +28,8 @@
 ---
 ### Connect with me:
 
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/rdwnwrvldi#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/rdwnrvldi#gh-dark-mode-only)
 
 
 
