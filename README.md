@@ -7,7 +7,7 @@
 
 ## Education:
 
-#### 1. [BinaInsani](https://binainsani.ac.id/) | Bekasi `2021-2024`
+#### 1. [BinaInsani University](https://binainsani.ac.id/) | Bekasi `2021-2024`
 #### 2. [Smk Karya Bahana Mandiri](https://smk.kbm1.sch.id/) | Bekasi `2018-2021`
 
 ## Work Experience:
