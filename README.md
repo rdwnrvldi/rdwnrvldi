@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="CorelDraw" width="150px" src="https://kursusonline.co.id/wp-content/uploads/2021/08/kursus-corel-draw.jpg" style="padding-right:10px;" /> ]
+[<img align="left" alt="CorelDraw" width="150px" src="https://kursusonline.co.id/wp-content/uploads/2021/08/kursus-corel-draw.jpg" style="padding-right:10px;" /> 
 [<img align="left" alt="Adobe Lightroom" width="100px" src="https://dl.memuplay.com/new_market/img/com.adobe.lrmobile.icon.2021-04-28-13-11-40.png" style="padding-right:10px;" />
 
 <br />
