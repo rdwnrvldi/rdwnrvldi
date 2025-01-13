@@ -14,9 +14,10 @@
 
 ## Work Experience:
 #### 1. [PT. Suzuki Indomobil motor](https://www.suzuki.co.id/) | Staff Maintenance Warehouse | Bekasi `Sept'2019 - ``Des'2019 
-   - Maintenance sparepart in warehouse
-   - Checking sparepart
-   - Packing sparepart
+   - Perform Quality Control on Spare Parts daily to check the quality and quantity of spare parts based on product categories.
+   - Create reports on spare parts for products that are already recorded to minimize spare part loss in the warehouse.
+   - Conduct a stock-taking of spare parts every month thoroughly based on reports to ensure stock availability to meet operational needs.
+   - Assist in packing and checking spare parts to help improve overall work efficiency.
 
 ### Languages and Tools:
 
