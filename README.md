@@ -35,7 +35,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="CorelDraw" width="180px" src="https://kursusonline.co.id/wp-content/uploads/2021/08/kursus-corel-draw.jpg" style="padding-right:10px;" />
-<img align="left" alt="Adobe Lightroom" width="100px" src="https://dl.memuplay.com/new_market/img/com.adobe.lrmobile.icon.2021-04-28-13-11-40.png" style="padding-right:10px;" />
+<img align="left" alt="Adobe Lightroom" width="100px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dicoding.com%2Fblog%2Fauthor%2Fdicoding-intern%2F&psig=AOvVaw2-ildbo-hdl5FAXeGb4j0Y&ust=1736827602896000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiP35Tp8YoDFQAAAAAdAAAAABAE" style="padding-right:10px;" />
 <img align="left" alt="Adobe Illustrator" width="100px" src="https://www.nesabamedia.com/wp-content/uploads/2020/08/Adobe-Illustrator-Logo-1-1.png" style="padding-right:10px;" />
 
 
