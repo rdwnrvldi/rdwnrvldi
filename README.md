@@ -2,10 +2,24 @@
 
 ## About me:
 
-- 🌱 I am currently focused on becoming a graphic designer
+- 🌱 I am currently focused on becoming a FrontEnd Engineer Programmer
 - 🤔 I’m looking for suggest for Rust Project Ideas
 - 💬 Ask me about anything
 - 📫 How to reach me: ridwanrivaldi17@gmail.com
+  
+## Skills & Expertise:
+- 🖥️ Skills: HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS, and other front-end technologies
+- 💻 Experience: Experience building responsive and user-friendly websites and applications
+- 🛠️ Tools: Git, GitHub, Figma, VSCode, and others
+- 📚 Learning: Continuously improving and staying up-to-date with the latest front-end development trends and frameworks
+
+# MyProjects:
+- 🚀 Notable Projects
+- 🚀 Parking Management System
+- 🚀 Point Of Sales
+- 🚀 Inventory System
+- 🚀 Mobile Application Oxtagon
+- 🚀 Corporate Website System
 
 ## Education:
 
